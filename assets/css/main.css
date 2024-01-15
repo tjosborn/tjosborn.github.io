@@ -290,6 +290,12 @@ input, select, textarea {
 
 		}
 
+/* tile */
+
+	.tile {
+		border-radius: 0.35em;
+	}
+
 /* Row */
 
 	.row {
